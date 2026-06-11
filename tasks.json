@@ -1,0 +1,19 @@
+[
+   
+    {
+        "task": "Learn Python",
+        "completed": true
+    },
+    {
+        "task": "Complete Codveda Level 2 Task",
+        "completed": true
+    },
+    {
+        "task": "Practice JSON File Handling",
+        "completed": true
+    },
+    {
+        "task": "Revise python Loops and Conditions",
+        "completed": true
+    }
+]
